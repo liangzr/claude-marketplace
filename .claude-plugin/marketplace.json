@@ -1,0 +1,12 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "claude-marketplace",
+  "description": "liangzr's public Claude Code plugin marketplace",
+  "owner": {
+    "name": "liangzr"
+  },
+  "metadata": {
+    "version": "0.1.0"
+  },
+  "plugins": []
+}
